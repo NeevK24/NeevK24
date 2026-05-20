@@ -35,6 +35,6 @@ When contributing to open-source projects, I stick to clean development practice
 ### 🤝 Let's Connect!
 
 - **LinkedIn:** [Neev Kumar / Profile Link](https://www.linkedin.com/in/neev-kumar-6b0a05373/)
-- **Email:** ``
+- **Email:** `neev24307@gmail.com`
 
 *“The best way to predict the future is to invent it.”*
